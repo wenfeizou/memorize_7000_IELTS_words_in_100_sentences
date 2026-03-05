@@ -88,7 +88,7 @@ It was once assumed that improvements in telecommunications would lead to more d
 
 ### 语法笔记
 
-本句的主干是 It was once assumed that...。It 充当形式主语，that 引导主语从句， improvements...into cities 是实际主语，其中又包含 as 引导的时间状语从句。
+本句的主干是 It was once assumed that...。It 充当形式主语，that 引导主语从句， improvements...into cities 是实际主语，其中又包含 as 引导的原因状语从句。
 
 ## Sentence 20
 
