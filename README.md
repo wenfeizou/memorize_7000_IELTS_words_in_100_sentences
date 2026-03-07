@@ -17,29 +17,29 @@
 
 > As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging-the build-up of molecular and cellular damage that increase vulnerability to infirmity as we grew older.
 
-### 正确的拼写
+#### 正确的拼写
 
 As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging-the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grew older.
 
 > increase -> increases
 
-## 中文翻译、语法结构讲解等错误
+#### 中文翻译、语法结构讲解等错误
 
 ### Sentence 19
 
 > It was once assumed that improvements in telecommunications would lead to more dispersal in the population as people were no longer forced into cities.
 
-> ### 原中文翻译
+> #### 原中文翻译
 > 人们曾经认为，电信的进步使人们不再被迫流向城市，这将导致人口更加分散。
 
-> ### 原语法笔记
+> #### 原语法笔记
 > 本句的主干是 It was once assumed that...。It 充当形式主语，that 引导主语从句， improvements...into cities 是实际主语，其中又包含 as 引导的时间状语从句。
 
-### 正确中文翻译
+#### 正确中文翻译
 
 人们曾一度认为，随着电信技术的进步，人们不再被迫涌入城市，这将导致人口分布更加分散。
 
-### 正确语法笔记
+#### 正确语法笔记
 
 本句的主干是 It was once assumed that...。It 充当形式主语，that 引导主语从句， improvements...into cities 是实际主语，其中又包含 as 引导的原因状语从句。
 
@@ -47,16 +47,16 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 > The continuous and reckless use of synthetic chemicals for the control of pests which pose a threat to agricultural crops and human health is proving to be counter-productive.
 
-> ### 原中文翻译
+> #### 原中文翻译
 > 为控制害虫而连续不计后果地使用危害农作物和人类健康的人工合成化学品，结果产生了相反的效果。
 
-> ### 原语法笔记
+> #### 原语法笔记
 > 本句的主干是 The use of synthetic chemicals is proving to be counter-productive。which 引导一个定语从句，修饰先行词synthetic chemicals。
 
-### 正确中文翻译
+#### 正确中文翻译
 
 害虫危害农作物和人类健康，使用人工合成化学品是为了控制害虫，从而保护农作物和人类健康。但连续不计后果地使用，结果产生了相反的效果。
 
-### 正确语法笔记
+#### 正确语法笔记
 
 本句的主干是 The use of synthetic chemicals is proving to be counter-productive。which 引导一个定语从句，修饰先行词 pests。
