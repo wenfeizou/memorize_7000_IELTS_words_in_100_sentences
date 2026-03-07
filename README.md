@@ -43,6 +43,17 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 本句的主干是 It was once assumed that...。It 充当形式主语，that 引导主语从句， improvements...into cities 是实际主语，其中又包含 as 引导的原因状语从句。
 
+### Sentence 31
+
+> He wanted to give people a feeling of suspense as they see the building first from a distance, and then close-up, and the shape of the building as a whole was that of a box.
+
+> #### 原中文翻译
+> 他想给人们一种悬念之感，当人们从远处看到建筑，然后慢慢接近，整个建筑的形状就像一个盒子。
+
+#### 正确中文翻译
+
+他希望人们在观看这座建筑时，从远处的初见到近处的细看，都能感受到一种悬念；而这座建筑的整体形状则像一个盒子。
+
 ### Sentence 35
 
 > The continuous and reckless use of synthetic chemicals for the control of pests which pose a threat to agricultural crops and human health is proving to be counter-productive.
@@ -60,3 +71,14 @@ As researchers on aging noted recently, no treatment on the market today has bee
 #### 正确语法笔记
 
 本句的主干是 The use of synthetic chemicals is proving to be counter-productive。which 引导一个定语从句，修饰先行词 pests。
+
+### Sentence 36
+
+> Both social and cognitive types of laughter tap into the same expressive machinery in our brains, the emotion and motor circuits that produce smiles and excited vocalisations.
+
+> #### 原中文翻译
+> 无论是社交场合中的笑还是认知活动中的笑，都是利用我们大脑中的同一表达机制——情感和运动环路使人发笑并发出兴奋的声音。
+
+#### 正确中文翻译
+
+> 社交型和认知型两类笑声，都调用了大脑中相同的表达机制：也就是那些负责产生微笑和兴奋发声的情感与运动神经回路。
