@@ -64,11 +64,32 @@ Both social and cognitive types of laughter tap into the same expressive machine
 
 Opinion polls suggest that many people nurture the belief that environmental standards are declining and four factors seem to cause this disjunction between perception and reality.
 
-> 民意调查表明，很多人支持了这一看法，认为环境标准在降低，似乎有四种因素导致这种认识与实际情况的差异。
+> 民意调查显示，许多人坚信环境标准正在日益恶化；然而，这种认知与现实之间的脱节，似乎是由四个因素造成的。
 
 ### 语法笔记
 
 本句主干是 Opinion polls suggest + that 宾语从句。第二个 that 引导同位语从句 environmental standards ... and reality，解释前面的 belief。
+这是一个并列复合句 (Compound-Complex Sentence)。并列关系由 and 连接，分句 1 (Clause 1): `Opinion polls suggest that many people nurture the belief that environmental standards are declining`，分句 2 (Clause 2): `four factors seem to cause this disjunction between perception and reality`。
+
+```text
+[Opinion polls] (主语)
+      |
+   [suggest] (谓语)
+      |
+      +---> [that many people nurture the belief...] (宾语从句)
+                |
+                +---> [that environmental standards are declining] (同位语从句，解释 belief)
+
+[and] (连词，连接前后两个分句)
+
+[four factors] (主语)
+      |
+   [seem to cause] (谓语)
+      |
+   [this disjunction] (宾语)
+      |
+      +---> [between perception and reality] (介词短语作后置定语，修饰 disjunction)
+```
 
 ## Sentence 38
 
