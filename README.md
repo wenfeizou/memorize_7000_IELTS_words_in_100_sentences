@@ -23,7 +23,7 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 > increase -> increases
 
-#### 中文翻译、语法结构讲解等错误
+## 中文翻译、语法结构讲解等错误
 
 ### Sentence 19
 
@@ -121,3 +121,32 @@ As researchers on aging noted recently, no treatment on the market today has bee
       |
       +---> [between perception and reality] (介词短语作后置定语，修饰 disjunction)
 ```
+
+### Sentence 51
+
+> They think the population of Rapa Nui grew rapidly and then remained more or less stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity.
+
+> #### 原中文翻译
+> 他们认为，拉帕努伊岛人口增长迅速，在欧洲人到来之前保持基本稳定，欧洲人带来了致命的疾病，而岛民对这些疾病没有免疫力。
+
+#### 正确中文翻译
+
+> 他们认为，拉帕努伊岛的人口曾迅速增长，随后在欧洲人抵达前一直保持相对稳定。然而，欧洲人的到来带来了致命的疾病，而岛民对这些疾病毫无免疫力。
+
+### Sentence 52
+
+> Anyway, even though these noise maps are fairly crude, they’ve been useful in providing information and raising awareness that noise matters, we need to deal with it and so it’s a political matter.
+
+> #### 原中文翻译
+> 无论如何，尽管这些噪音地图粗糙且不完善，但它们在提供信息和提高人们对噪音的认识方面很有用，我们需要解决这个问题，所以这是一个政治问题。
+
+> #### 原语法笔记
+>本句的主干是 they've been useful in providing information and raising awareness。even though 引导让步状语从句，从句的主干是 these maps are crude。that 引导同位语从句 noise matters ... political matter，补充说明 awareness，从句中的 it 指代 noise matters。
+
+#### 正确中文翻译
+
+> 无论如何，尽管这些噪音地图相当粗略，但它们发挥了重要作用：不仅提供了相关信息，还提高了人们的意识，让人们认识到“噪音问题不容忽视，必须加以解决，也因此，这是一个政治议题”。
+
+#### 正确语法笔记
+
+本句的主干是 they've been useful in providing information and raising awareness。even though 引导让步状语从句，从句的主干是 these maps are crude。that 引导同位语从句 noise matters ... political matter，补充说明 awareness，从句中的 it 指代 noise。
