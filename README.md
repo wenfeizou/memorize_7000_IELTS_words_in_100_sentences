@@ -150,3 +150,21 @@ As researchers on aging noted recently, no treatment on the market today has bee
 #### 正确语法笔记
 
 本句的主干是 they've been useful in providing information and raising awareness。even though 引导让步状语从句，从句的主干是 these maps are crude。that 引导同位语从句 noise matters ... political matter，补充说明 awareness，从句中的 it 指代 noise。
+
+### Sentence 61
+
+> After this, many researchers switched to autoganzfeld tests-an automated variant of the technique which used computers to perform many of the key tasks such as the random selection of images.
+
+> #### 原中文翻译
+> 此后，很多研究人员转而进行自动超感知觉全域测试——使用自动化技术，利用电脑完成诸如随机选择图像等许多重要任务。
+
+> #### 原语法笔记
+> 本句的主干是 many researchers switched to autoganzfeld tests。破折号后的内容是对 autoganzfeld tests 的解释说明，which 引导一个定语从句，修饰 an automated variant of the technique。
+
+#### 正确中文翻译
+
+> 此后，许多研究人员转向了自动甘兹菲尔德测试（autoganzfeld tests）——这是该技术的一种自动化变体，利用计算机来执行许多关键任务，例如图像的随机选择。
+
+#### 正确语法笔记
+
+本句的主干是 many researchers switched to autoganzfeld tests。破折号后的内容是对 autoganzfeld tests 的解释说明，which 引导一个定语从句，修饰 an automated variant of the technique。the technique 指 ganzfeld tests (来自该句前文)。
