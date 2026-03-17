@@ -168,3 +168,7 @@ As researchers on aging noted recently, no treatment on the market today has bee
 #### 正确语法笔记
 
 本句的主干是 many researchers switched to autoganzfeld tests。破折号后的内容是对 autoganzfeld tests 的解释说明，which 引导一个定语从句，修饰 an automated variant of the technique。the technique 指 ganzfeld tests (来自该句前文)。
+
+## 参考
+
+![多伦多书苑](https://www.211cn.ca/book/100-sentences-7000-ielts-words/)
