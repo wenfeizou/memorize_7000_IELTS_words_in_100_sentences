@@ -4,7 +4,6 @@
 
 After this, many researchers switched to autoganzfeld tests-an automated variant of the technique which used computers to perform many of the key tasks such as the random selection of images.
 
-> 此后，很多研究人员转而进行自动超感知觉全域测试——使用自动化技术，利用电脑完成诸如随机选择图像等许多重要任务。
 > 此后，许多研究人员转向了自动甘兹菲尔德测试（autoganzfeld tests）——这是该技术的一种自动化变体，利用计算机来执行许多关键任务，例如图像的随机选择。
 
 ### 语法笔记
