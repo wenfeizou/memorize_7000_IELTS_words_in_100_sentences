@@ -44,7 +44,7 @@ Businesses are finding that ethnography can offer them deeper insight into the p
 
 Education is a hiring requirement for 60% of employment opportunities, but 40% of human resources staff say that if they do not know a lot about the value of documents attained elsewhere, they will not recognize them.
 
-> 有60%的就业机会都会对应聘者的教育背景提出要求，但是40%的人力部工作人员表示，如果他们并不十分了解应聘者从其他地方获得的资历证书的价值，他们将不予以认可。
+> 有 60% 的就业机会都会对应聘者的教育背景提出要求，但是 40% 的人力部工作人员表示，如果他们并不十分了解应聘者从其他地方获得的资历证书的价值，他们将不予以认可。
 
 ### 语法笔记
 
