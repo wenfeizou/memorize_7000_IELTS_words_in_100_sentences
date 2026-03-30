@@ -169,6 +169,24 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 本句的主干是 many researchers switched to autoganzfeld tests。破折号后的内容是对 autoganzfeld tests 的解释说明，which 引导一个定语从句，修饰 an automated variant of the technique。the technique 指 ganzfeld tests (来自该句前文)。
 
+### Sentence 100
+
+> Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards move visible and potentially more motivating.
+
+> #### 原中文翻译
+> 通过公开交流每个人的薪酬，公开绩效奖金并把年度加薪一次付清，而不是分摊到全年来消除围绕薪酬的秘密，这样的行为范例会让奖励更明显，更有可能起到激励作用。
+
+> #### 原语法笔记
+> 本句的主干是 Eliminating the secrecy surrounding pay are examples of actions。现在分词短语 surrounding pay 作后置定语，修饰 secrecy。by 后面由 and 连接的三个现在分词结构作 eliminating the secrecy 的方式状语。that 引导了定语从句，修饰 actions。
+
+#### 正确中文翻译
+
+> 消除薪酬保密制度（通过公开沟通每个人的薪酬）、公示绩效奖金，以及将年度加薪一次性发放而非分摊到全年，这些举措都是很好的例子，它们能让奖励更加公开透明，从而可能产生更强的激励效果。
+
+#### 正确语法笔记
+
+由三个动名词短语组成的并列结构 Eliminating the secrecy..., publicizing performance bonuses, and allocating annual salary increases...共同构成了句子的主语。现在分词短语 surrounding pay 作后置定语，修饰 secrecy。by openly communicating everyone’s remuneration 是方式状语，解释如何消除保密。that 引导了定语从句，修饰 actions。
+
 ## 参考
 
 ![多伦多书苑](https://www.211cn.ca/book/100-sentences-7000-ielts-words/)
