@@ -169,6 +169,51 @@ As researchers on aging noted recently, no treatment on the market today has bee
 
 本句的主干是 many researchers switched to autoganzfeld tests。破折号后的内容是对 autoganzfeld tests 的解释说明，which 引导一个定语从句，修饰 an automated variant of the technique。the technique 指 ganzfeld tests (来自该句前文)。
 
+### Sentence 73
+
+> The difficulty with the evidence produced by these studies, fascinating as they are in collecting together anecdotes and apparent similarities and exceptions, is that they are not what we would today call norm-referenced.
+
+> #### 原中文翻译
+> 这些研究收集了奇闻轶事、明显的相似点与特例，因此很吸引人，然而，这些证据所带来的难题是，它们不是我们现在所称的常模参照。
+
+> #### 原语法笔记
+>本句的主干是 the difficulty is that...。其中 that 在句中引导表语从句，该从句中含有一个 what 引导的表语从句。as 引导让步状语从句，使用倒装形式，其中作表语的形容词 fascinating 前置。
+
+#### 正确中文翻译
+
+> 尽管这些研究把种种轶事、表面上的相似之处以及例外情况汇集在一起，颇为引人入胜，但它们所产生的证据有一个问题：这些研究并不是我们今天所说的“以常模为参照的”研究。
+
+#### 正确语法笔记
+
+这句的核心结构是：
+
+The difficulty ... is that ...。
+
+更完整地拆开是：
+
+- 主语：The difficulty with the evidence produced by these studies
+- 插入的让步状语从句：fascinating as they are in collecting together anecdotes and apparent similarities and exceptions
+- 系动词：is
+- 表语从句：that they are not what we would today call norm-referenced
+
+其中：
+
+- produced by these studies 修饰 evidence
+- fascinating as they are ... = although they are fascinating ...
+- 这里的 they 指 these studies
+- what we would today call norm-referenced 是一个 what 引导的名词性从句，整体作 are not 的表语整体作 are not 的表语，意思是“我们今天会称为‘norm-referenced’的那一类”
+
+### Sentence 77
+
+> Most tickets may be used for travel by Sleeper, subject to availability, and a reservation in a two-berth cabin can be made for $25, except in the case of Solo and Special tickets, which include Sleeper reservation in the fare.
+
+> #### 原中文翻译
+> 绝大部分车票可以用来乘坐卧铺，这要视供应情况而定，而且支付25英镑就可以预订一个双铺位隔间，但单人车票和特价车票除外，因为上述车票票价中已经包含了卧铺预订费。
+
+#### 正确中文翻译
+
+> 多数车票均可在有空位时用于预订卧铺席位。预订一间双人卧铺包厢须另付 25 美元；但 Solo 票及 Special 票除外，此两类车票的票价已包含卧铺预订费用。
+
 ### Sentence 100
 
 > Eliminating the secrecy surrounding pay by openly communicating everyone’s remuneration, publicizing performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards move visible and potentially more motivating.
