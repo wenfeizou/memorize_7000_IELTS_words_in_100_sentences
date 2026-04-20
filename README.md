@@ -177,7 +177,7 @@ As researchers on aging noted recently, no treatment on the market today has bee
 > 这些研究收集了奇闻轶事、明显的相似点与特例，因此很吸引人，然而，这些证据所带来的难题是，它们不是我们现在所称的常模参照。
 
 > #### 原语法笔记
->本句的主干是 the difficulty is that...。其中 that 在句中引导表语从句，该从句中含有一个 what 引导的表语从句。as 引导让步状语从句，使用倒装形式，其中作表语的形容词 fascinating 前置。
+> 本句的主干是 the difficulty is that...。其中 that 在句中引导表语从句，该从句中含有一个 what 引导的表语从句。as 引导让步状语从句，使用倒装形式，其中作表语的形容词 fascinating 前置。
 
 #### 正确中文翻译
 
