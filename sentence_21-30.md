@@ -14,11 +14,61 @@ It’s true there are new regulations for mercury emissions from power plants, b
 
 The teacher’s task is to assist the students to apply what they have learned paraconsciously, and in doing so to make it easily accessible to consciousness.
 
-> 教师的任务是协助学生运用他们在超意识状态下习得的知识，这样做可以使所学的知识更容易被意识接受。
+> 教师的任务是帮助学生以准意识/半意识的方式运用他们已经学到的东西，并在这个过程中使其更容易进入意识层面。
 
 ### 语法笔记
 
-本句的主干是 The teacher's task is to assist the students and to make it accessible to consciousness。to apply what they have learned paraconsciously 作宾语补足语，其中 what 引导宾语从句；in doing so 意为“这样做时，在这种情况下”，作状语。
+本句主干：
+
+The teacher’s task is to assist ..., and to make ...
+
+结构：
+
+The teacher’s task
+
+= 主语
+
+is
+
+= 系动词
+
+to assist the students to apply what they have learned paraconsciously
+
+= 表语1，不定式短语
+
+and in doing so to make it easily accessible to consciousness
+
+= 表语2，和前面的 to assist 并列
+
+细分：
+
+assist + 宾语 + to do
+
+assist the students to apply...
+
+帮助学生去运用……
+
+what they have learned
+
+= apply 的宾语，名词性从句
+
+paraconsciously
+
+= 修饰 apply，表示“以半意识方式运用”
+
+in doing so
+
+= 在这样做的过程中，指前面的 assist/apply
+
+make it accessible
+
+= make + 宾语 + 宾补
+
+it 指 what they have learned
+
+accessible 是宾语补足语
+
+整体意思：教师的任务是帮助学生半意识地运用所学，并由此让所学更容易进入意识层面。
 
 ## Sentence 23
 
